@@ -1,2 +1,2 @@
 # Face-Detection-Webcam
-Face Detection using cv2
+This python program can Detect your Face using the Libary OpenCV
